@@ -1,3 +1,8 @@
+# SCOPE OF THE PROJECT
+
+get used to react by creating a simple project that contains a list of items, and a small form to add elements to the list
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
