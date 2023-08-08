@@ -1,0 +1,17 @@
+.list{
+    list-style-type: none;
+}
+.items{
+    width:500px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: black solid 3px;
+    border-radius: 35px;
+    margin: 5px;
+    background-color: blanchedalmond;
+}
+.itemNames{
+    font-weight: bolder;
+    margin-right: 100px;
+}
